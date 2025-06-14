@@ -1,4 +1,4 @@
 # Ben Smells
 
 
-[[testing]]
+[[testing.md]]
